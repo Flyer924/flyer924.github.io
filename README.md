@@ -1,6 +1,6 @@
 # flyer924.github.io
 
-![about me](/about)
+[about me](/about)
 
 hello, this is a markdown document
 
